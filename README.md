@@ -1,5 +1,7 @@
 # Welcome to my profile 😸
 
+[![Website](https://img.shields.io/badge/-Wikipedia-white?style=flat&logo=Wikipedia&logoColor=black)](https://es.wikipedia.org/wiki/Usuario:DisketteFox)
+
 Hi! My name is Miles, also known as **DisketteFox**, and I am a little developer learning markup and programming languages.
 In this page you might see my school projects and my attempts at my own projects.
 
@@ -10,6 +12,17 @@ I started with Scratch for 5 years, which molded my mind to understand programmi
 My first real programming language was Python, alongside with programming Arduino algorythms.
 Then, I touched a little bit of lua and json whilst modifying some videogames I liked at that time.
 Now I'm mainly studying Java at my school and, at the same time, Im studying HTML and CSS by myself.
+
+## 📜 — Languages —  📜
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+
+## 📊 — Status — 📊
+[![DisketteFox's github stats](https://github-readme-stats-zeta-livid.vercel.app/api?username=DisketteFOx&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-livid.vercel.app/api/top-langs/?username=DisketteFox&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 And that's all for now. See ya! 😺
 
