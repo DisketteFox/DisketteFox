@@ -15,10 +15,10 @@ Now I'm mainly studying Java at my school and, at the same time, Im studying HTM
 
 ## 📜 Languages I know
 <img src="https://skillicons.dev/icons?i=python,lua,java,html,css" /><br><br>
-[![Top Langs](https://github-readme-stats-zeta-livid.vercel.app/api/top-langs/?username=DisketteFox&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-livid.vercel.app/api/top-langs/?username=DisketteFox&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 My status
-[![DisketteFox's github stats](https://github-readme-stats-zeta-livid.vercel.app/api?username=DisketteFOx&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![DisketteFox's github stats](https://github-readme-stats-zeta-livid.vercel.app/api?username=DisketteFOx&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 And that's all for now. See ya! 😺
 
