@@ -33,33 +33,11 @@ On my first year studying programming, I've learnt [Java](https://en.wikipedia.o
 
 ## 📜 Languages I know
 
-<img src="icons/css.png" height="48px">
-<img src="icons/html.png" height="48px" style="margin-left: 8px;">
-<img src="icons/java.png" height="48px" style="margin-left: 8px;">
-<img src="icons/js.png" height="48px" style="margin-left: 8px;">
-<img src="icons/markdown.png" height="48px" style="margin-left: 8px;">
-<img src="icons/python.png" height="48px" style="margin-left: 8px;">
-<img src="icons/sql.png" height="48px" style="margin-left: 8px;">
-<img src="icons/sqlite.png" height="48px" style="margin-left: 8px;">
-<img src="icons/ts.png" height="48px" style="margin-left: 8px;">
-<img src="icons/xml.png" height="48px" style="margin-left: 8px;">
-<img src="icons/lua.png" height="48px" style="margin-left: 8px;">
+<img src="icons/css.png" height="48px"><img src="icons/html.png" height="48px" style="margin-left: 8px;"><img src="icons/java.png" height="48px" style="margin-left: 8px;"><img src="icons/js.png" height="48px" style="margin-left: 8px;"><img src="icons/markdown.png" height="48px" style="margin-left: 8px;"><img src="icons/python.png" height="48px" style="margin-left: 8px;"><img src="icons/sql.png" height="48px" style="margin-left: 8px;"><img src="icons/sqlite.png" height="48px" style="margin-left: 8px;"><img src="icons/ts.png" height="48px" style="margin-left: 8px;"><img src="icons/xml.png" height="48px" style="margin-left: 8px;"><img src="icons/lua.png" height="48px" style="margin-left: 8px;">
 
 ## 🪛 Software / Tools I use
 
-<img src="icons/android-studio.png" height="48px">
-<img src="icons/arch.png" height="48px" style="margin-left: 8px;">
-<img src="icons/arduino.png" height="48px" style="margin-left: 8px;">
-<img src="icons/bash.png" height="48px" style="margin-left: 8px;">
-<img src="icons/codium.png" height="48px" style="margin-left: 8px;">
-<img src="icons/figma.png" height="48px" style="margin-left: 8px;">
-<img src="icons/git.png" height="48px" style="margin-left: 8px;">
-<img src="icons/intellij.png" height="48px" style="margin-left: 8px;">
-<img src="icons/linux.png" height="48px" style="margin-left: 8px;">
-<img src="icons/neovim.png" height="48px" style="margin-left: 8px;">
-<img src="icons/pycharm.png" height="48px" style="margin-left: 8px;">
-<img src="icons/raspberry.png" height="48px" style="margin-left: 8px;">
-<img src="icons/vim.png" height="48px" style="margin-left: 8px;">
+<img src="icons/android-studio.png" height="48px"><img src="icons/arch.png" height="48px" style="margin-left: 8px;"><img src="icons/arduino.png" height="48px" style="margin-left: 8px;"><img src="icons/bash.png" height="48px" style="margin-left: 8px;"><img src="icons/codium.png" height="48px" style="margin-left: 8px;"><img src="icons/figma.png" height="48px" style="margin-left: 8px;"><img src="icons/git.png" height="48px" style="margin-left: 8px;"><img src="icons/intellij.png" height="48px" style="margin-left: 8px;"><img src="icons/linux.png" height="48px" style="margin-left: 8px;"><img src="icons/neovim.png" height="48px" style="margin-left: 8px;"><img src="icons/pycharm.png" height="48px" style="margin-left: 8px;"><img src="icons/raspberry.png" height="48px" style="margin-left: 8px;"><img src="icons/vim.png" height="48px" style="margin-left: 8px;">
 
 ## 💬 Locales
 
