@@ -6,13 +6,13 @@
 </div>
 <br>
 
-# Welcome to my profile 😸
+# Welcome to my profile
 
 [![Website](https://img.shields.io/badge/-Wikipedia-white?style=flat&logo=Wikipedia&logoColor=black)](https://es.wikipedia.org/wiki/Usuario:DisketteFox)
 [![Website](https://img.shields.io/badge/-Codeberg-10161d?style=flat&logo=Codeberg&logoColor=white)](https://codeberg.org/DisketteFox)
 
-Hi! My name is Miles, also known as **DisketteFox**, and I am a little developer learning markup and programming languages.
-In this page you might see my school projects and my attempts at my own projects.
+Hi! I am a little developer learning markup and programming languages.
+In this page you can find some of my school projects and my own projects.
 
 ## 🪴 About me
 
@@ -41,12 +41,12 @@ On my first year studying programming, I've learnt [Java](https://en.wikipedia.o
 
 ## 💬 Locales
 
-Feel free to talk to me in any language listed as a [RFC 5646](https://www.rfc-editor.org/rfc/rfc5646.html) below:
+Feel free to talk to me in any language listed below:
 
 - `en` (English)
 - `es` (Spanish)
 
 <div align="center">
 
-###### And that's all for now. See ya! <small>😺</small>
+###### And that's all for now. See ya! <small></small>
 </div>
