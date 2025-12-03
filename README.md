@@ -1,9 +1,8 @@
 <div align="center">
-
-# DisketteFox
-
-###### Web developer · Programming student
+    <h1>DisketteFox</h1>
+    <h4>Web developer · Programming student</h4>
 </div>
+
 <br>
 
 # Welcome to my profile
@@ -12,24 +11,13 @@
 [![Website](https://img.shields.io/badge/-Codeberg-10161d?style=flat&logo=Codeberg&logoColor=white)](https://codeberg.org/DisketteFox)
 
 Hi! I am a little developer learning markup and programming languages.
-In this page you can find some of my school projects and my own projects.
+In this page you can find some of my school and personal projects.
 
 ## 🪴 About me
 
-I'm a **web developer**.
+Right now, I am a programming student, so I mainly work on projects that have been assigned to me, but I also like to explore and do my own ones. Not all of them are related to programming, but I always try to be creative, and I love contributing to open source or libre projects, such as [Wikipedia](https://wikipedia.org) 
 
-A lot of my free time is dedicated to **free/libre** internet communities, such as [Wikipedia](https://wikipedia.org).
-
-Currently studying cross-platform application development.
-
-## 📒 My history
-
-Since I was a child I have been fascinated by everything related to computers. Programs, intenet, and so on; so I decided to get myself into this world.
-I started with [Scratch](https://scratch.mit.edu/) for 5 years, which molded my mind to understand programming structures, helping me to start programming.
-My first real programming language was [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) which I have sudied by myself on my free time when I was 11. Meanwhile, I also started some [Arduino](https://en.wikipedia.org/wiki/Arduino) projects, which really got me into participating in some bigger projects.
-Some years later, I started digging into videogame modding, with what I've learnt a little bit of [lua](https://en.wikipedia.org/wiki/lua) and [json](https://en.wikipedia.org/wiki/json).
-After some time I decided that I wanted to learn how to make a webpage and after two months of studying, I've learnt enough [HTML](https://en.wikipedia.org/wiki/html) and [CSS](https://en.wikipedia.org/wiki/css) to create a good website.
-On my first year studying programming, I've learnt [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [XML](), [SQLite](), [SQL](), [Java Script]() and [Git](); and I have developed my knowledge on Python, HTML, CSS and JSON.
+I'm currently studying cross-platform application development.
 
 ## 📜 Languages I know
 
