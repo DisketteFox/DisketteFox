@@ -5,8 +5,6 @@
 
 <br>
 
-# Welcome to my profile
-
 [![Website](https://img.shields.io/badge/-Wikipedia-white?style=flat&logo=Wikipedia&logoColor=black)](https://es.wikipedia.org/wiki/Usuario:DisketteFox)
 [![Website](https://img.shields.io/badge/-Codeberg-10161d?style=flat&logo=Codeberg&logoColor=white)](https://codeberg.org/DisketteFox)
 
@@ -35,6 +33,5 @@ Feel free to talk to me in any language listed below:
 - `es` (Spanish)
 
 <div align="center">
-
-###### And that's all for now. See ya! <small></small>
+    <h5>And that's all for now. See ya!</h5>
 </div>
