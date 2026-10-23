@@ -54,16 +54,9 @@ Here you'll find some of my school and personal projects.
       <a href="https://github.com/DisketteFox/MadridLibreTransport/releases"><button style="color: unset; background-color: unset; border: 1px solid; padding: 10px 15px; border-radius: 10px;">Download</button></a>
     </div>
   </div>
-
-  <div style="flex: 0 1 420px; min-width: 0; display: flex; align-items: center; gap: 5px; padding: 20px; box-sizing: border-box;">
-    <img src="https://raw.githubusercontent.com/DisketteFox/MadridLibreTransport/main/docs/images/scr1.png" alt="Madrid Libre Transport screenshot 1" style="flex: 1 1 0; min-width: 0; max-width: 130px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/DisketteFox/MadridLibreTransport/main/docs/images/scr2.png" alt="Madrid Libre Transport screenshot 2" style="flex: 1 1 0; min-width: 0; max-width: 130px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/DisketteFox/MadridLibreTransport/main/docs/images/scr3.png" alt="Madrid Libre Transport screenshot 3" style="flex: 1 1 0; min-width: 0; max-width: 130px; height: auto;" />
-  </div>
-
 </div>
 
-<br>
+<hr>
 
 <div style="display: flex; flex-wrap: wrap; border: 1px solid; border-radius: 15px; max-width: 964px; box-sizing: border-box;">
 
@@ -86,14 +79,9 @@ Here you'll find some of my school and personal projects.
       <a href="https://github.com/DisketteFox/download-manager/releases"><button style="color: unset; background-color: unset; border: 1px solid; padding: 10px 15px; border-radius: 10px;">Download</button></a>
     </div>
   </div>
-
-  <div style="flex: 0 1 420px; min-width: 0; display: flex; align-items: center; justify-content: center; padding: 20px; box-sizing: border-box;">
-    <img src="https://raw.githubusercontent.com/DisketteFox/download-manager/main/docs/images/screenshot1.png" alt="Download Manager screenshot" style="max-width: 100%; height: auto;" />
-  </div>
-
 </div>
 
-<br>
+<hr>
 
 <div style="display: flex; flex-wrap: wrap; border: 1px solid; border-radius: 15px; max-width: 964px; box-sizing: border-box;">
   <div style="flex: 1 1 300px; min-width: 0; padding: 20px; box-sizing: border-box;">
@@ -109,10 +97,6 @@ Here you'll find some of my school and personal projects.
       <a href="https://github.com/DisketteFox/mortem"><button style="color: white; background-color: dodgerblue; border: 0; padding: 10px 15px; border-radius: 10px;">More info</button></a>
       <a href="https://github.com/DisketteFox/mortem/releases"><button style="color: unset; background-color: unset; border: 1px solid; padding: 10px 15px; border-radius: 10px;">Download</button></a>
     </div>
-  </div>
-
-  <div style="flex: 0 1 420px; min-width: 0; display: flex; align-items: center; justify-content: center; padding: 20px; box-sizing: border-box;">
-    <img src="https://raw.githubusercontent.com/DisketteFox/mortem/refs/heads/main/assets/stages/office/office11.png" alt="Mortem screenshot" style="max-width: 100%; height: auto;" />
   </div>
 
 </div>
