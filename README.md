@@ -14,10 +14,16 @@ In this page you can find some of my school and personal projects.
 
 ## Tech Stack
 
-<div align="center">
-    <img src="icons/java.png" height="48px" style="padding-right: 8px"><img src="icons/python.png" height="48px" style="padding-right: 8px;"><img src="icons/html.png" height="48px" style="padding-right: 8px;"><img src="icons/css.png" height="48px" style="padding-right: 8px;"><img src="icons/js.png" height="48px" style="padding-right: 8px;"><img src="icons/ts.png" height="48px" style="padding-right: 8px;"><img src="icons/xml.png" height="48px" style="padding-right: 8px;"><img src="icons/markdown.png" height="48px" style="padding-right: 8px;"><img src="icons/sql.png" height="48px" style="padding-right: 8px;"><img src="icons/sqlite.png" height="48px" style="padding-right: 8px;"><img src="icons/figma.png" height="48px" style="padding-right: 8px;"><br>
-    <img src="icons/android-studio.png" height="48px" style="padding-right: 8px;"><img src="icons/intellij.png" height="48px" style="padding-right: 8px;"><img src="icons/pycharm.png" height="48px" style="padding-right: 8px;"><img src="icons/git.png" height="48px" style="padding-right: 8px;"><img src="icons/bash.png" height="48px" style="padding-right: 8px;"><img src="icons/codium.png" height="48px" style="padding-right: 8px;"><img src="icons/linux.png" height="48px" style="padding-right: 8px;"><img src="icons/raspberry.png" height="48px" style="padding-right: 8px;"><img src="icons/arduino.png" height="48px" style="padding-right: 8px;">
-</div>
+|Field|Icons|
+| --- | --- |
+| `PROGRAMMING LANGUAGES` | [![](https://skillicons.dev/icons?i=java,kotlin,py,rust,php)](https://skillicons.dev) |
+| `WEB LANGUAGES` | [![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,md)](https://skillicons.dev) |
+| `FRAMEWORKS` | [![](https://skillicons.dev/icons?i=angular,react,spring,androidstudio)](https://skillicons.dev) |
+| `BBDD` | [![](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,django)](https://skillicons.dev) |
+| `OS` | [![](https://skillicons.dev/icons?i=linux,debian,arch,windows)](https://skillicons.dev) |
+| `TOOLS` | [![](https://skillicons.dev/icons?i=git,figma,bash,powershell,postman)](https://skillicons.dev) |
+ | `IDEs` | [![](https://skillicons.dev/icons?i=vscodium,idea,pycharm,phpstorm,webstorm,eclipse)](https://skillicons.dev) |
+ | `OTHER` | [![](https://skillicons.dev/icons?i=bevy,raspberrypi,arduino,ps)](https://skillicons.dev) |
 
 ## Starred Projects
 
@@ -34,17 +40,17 @@ In this page you can find some of my school and personal projects.
         <sub>EMT buses open source app</sub>
         </td>
         <td align="center" width="33%">
-        <a href="https://github.com/DisketteFox/PythonOrganizer">
-            <img src="https://github.com/DisketteFox/PythonOrganizer/raw/main/docs/images/icon.png" width="100" alt="Cascade FX" />
+        <a href="https://github.com/DisketteFox/download-manager">
+            <img src="https://github.com/DisketteFox/download-manager/raw/main/docs/images/icon.png" width="100" alt="Download Manager" />
         </a>
         <br/>
-        <b><a href="https://github.com/DisketteFox/PythonOrganizer">Download Manager</a></b>
+        <b><a href="https://github.com/DisketteFox/download-manager">Download Manager</a></b>
         <br/>
-        <sub>A basic Python download manager</sub>
+        <sub>A basic download manager</sub>
         </td>
         <td align="center" width="auto">
         <a href="https://github.com/DisketteFox/mortem">
-            <img src="https://github.com/DisketteFox/mortem/raw/main/assets/icon/mortem128.png" width="100" alt="Evil Australians" />
+            <img src="https://github.com/DisketteFox/mortem/raw/main/assets/icon/mortem128.png" width="100" alt="Mortem" />
         </a>
         <br/>
         <b><a href="https://github.com/DisketteFox/mortem">Mortem</a></b>
