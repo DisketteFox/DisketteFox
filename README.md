@@ -64,19 +64,19 @@ Here you'll find some of my school and personal projects.
     <div style="display: flex; align-items: center; gap: 12px;">
       <img src="https://raw.githubusercontent.com/DisketteFox/download-manager/main/docs/images/icon.svg" alt="Download Manager icon" width="48" height="48" style="flex-shrink: 0; border-radius: 10px;" />
       <div style="min-width: 0;">
-        <h3 style="margin: 0;">Download Manager</h3>
-        <sub>Python download manager and organizer</sub>
+        <h3 style="margin: 0;">Downloads Manager</h3>
+        <sub>Download and backup manager</sub>
       </div>
     </div>
-    <p>A basic download manager made to dowload organize and backup files from the internet via direct download.</p>
+    <p>A Rust program made with egui that manages downloads from links, handles backups, and organizes files in a download folder.</p>
     <ul>
       <li>Minimalistic</li>
-      <li>Made with Python</li>
-      <li>Organized design</li>
+      <li>Made with Rust</li>
+      <li>Cross-platform</li>
     </ul>
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-      <a href="https://github.com/DisketteFox/download-manager"><button style="color: white; background-color: dodgerblue; border: 0; padding: 10px 15px; border-radius: 10px;">More info</button></a>
-      <a href="https://github.com/DisketteFox/download-manager/releases"><button style="color: unset; background-color: unset; border: 1px solid; padding: 10px 15px; border-radius: 10px;">Download</button></a>
+      <a href="https://github.com/DisketteFox/downloads-manager"><button style="color: white; background-color: dodgerblue; border: 0; padding: 10px 15px; border-radius: 10px;">More info</button></a>
+      <a href="https://github.com/DisketteFox/downloads-manager/releases"><button style="color: unset; background-color: unset; border: 1px solid; padding: 10px 15px; border-radius: 10px;">Download</button></a>
     </div>
   </div>
 </div>
